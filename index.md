@@ -11,6 +11,11 @@ EOF
 ceph -s 
 ```
 
+<div style="border: 2px solid #f39c12; padding: 10px; border-radius: 8px; background: #fff8e1;">
+⚠️ **Caution:** This action is irreversible!
+</div>
+
+
 ---
 
 ## 📌 Code Example
