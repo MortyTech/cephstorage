@@ -1,20 +1,18 @@
 ---
-title: صفحه اصلی
+title: Home Page
 ---
 
-<div dir="rtl">
+# 👋 Hello
 
-# 👋 سلام
-
-این یک متن آزمایشی فارسی است که از راست به چپ نمایش داده می‌شود.  
-با استفاده از تگ `div` و ویژگی `dir="rtl"` می‌تونیم متن رو راست‌چین کنیم.
+This is a sample English text displayed from left to right.  
+By default, Markdown renders text in **LTR**, so we don’t need extra settings.
 
 ---
 
-## 📌 نمونه کد
+## 📌 Code Example
 
 ```python
-def salam():
-    print("سلام دنیا!")
+def hello():
+    print("Hello, World!")
 
-salam()
+hello()
