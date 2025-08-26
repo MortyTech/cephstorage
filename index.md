@@ -11,10 +11,10 @@ EOF
 ceph -s 
 ```
 
-<div style="border: 2px solid #f39c12; padding: 10px; border-radius: 8px; background: #fff8e1;">
-⚠️ **Caution:** This action is irreversible!
-</div>
-
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data A   | Data B   |
+| Row 2    | Data C   | Data D   |
 
 ---
 
